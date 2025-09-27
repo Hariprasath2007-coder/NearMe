@@ -69,12 +69,7 @@ airport.html
                 operated in 1915 and the airport was commissioned in 1930. The airport 
                 serves as the southern regional headquarters of the Airports Authority of 
                 India (AAI) for South India comprising the states of Andhra Pradesh, 
-                Karnataka, Kerala, Tamil Nadu and Telangana, and the union territories of 
-                Lakshadweep and Puducherry. The airport is the fifth-busiest airport in 
-                India by passenger traffic and aircraft movements, and fourth-busiest by 
-                cargo handled in India and international traffic. In the financial year 
-                2024–25, the airport handled over 22 million passengers and 0.37 million 
-                tonnes of cargo.</font>
+                </font>
         </p>
         <img src="airport.png" width="700" height="400" title="Chennai Airport">
     </body>
@@ -93,11 +88,7 @@ beach.html
                 near Fort St. George in the north to Foreshore Estate in the south, a 
                 distance of 6.0 km (3.7 mi), making it the second longest urban beach in 
                 the world, after Cox's Bazar Beach. The Marina is a primarily sandy beach, 
-                with an average width of 300 m (980 ft) and the width at the widest stretch 
-                is 437 m (1,434 ft). Bathing and swimming at the Marina are legally 
-                prohibited because of the dangers, as the undercurrent is very turbulent. 
-                It is one of the most crowded beaches in the country and attracts about 
-                30,000 visitors a day during weekdays and 50,000 visitors a day during the 
+                with an average width of 300 m (980  day during the 
                 weekends and on holidays. During summer months, about 15,000 to 20,000 
                 people visit the beach daily.</font>
         </p>
@@ -117,12 +108,7 @@ hotel.html
             <font size="5">The ITC Grand Chola is a 5-star luxury hotel in Chennai, India. 
                 It is located in Guindy, opposite SPIC building and along the same row of 
                 buildings as Ashok Leyland Towers. The building, designed by Singapore-based 
-                SRSS Architects, is of mixed-use development with three separate wings and 
-                is themed after traditional Dravidian architecture of the Chola dynasty. The 
-                hotel is the ninth hotel in The Luxury Collection brand. The hotel, built on 
-                over 1,600,000 sq ft, is dubbed the largest stand-alone hotel in the country 
-                built with an investment of ₹ 12,000 million and has the largest convention 
-                centre in the country built on 100,000 sq ft with a 30,000-sq ft pillar-less 
+                SRSS Architects,  with a 30,000-sq ft pillar-less 
                 ballroom. In terms of room inventory, with 600 rooms, it is the third largest 
                 hotel in India after Renaissance Mumbai Convention Centre Hotel – now 
                 rebranded as The Westin Mumbai Powai Lake (759 rooms) and Grand Hyatt 
@@ -146,11 +132,7 @@ marketcity.html
                 Limited located in Chennai, Tamil Nadu, India. It was opened in January 2013 
                 and is the 2nd largest mall in the city. It was the fourth largest mall in 
                 India in 2018. It has a built up area of 1,000,000 square feet. Also there 
-                is a Palladium mall situated right next to it. This mall was jointly 
-                developed by Phoenix Mills Limited and Crest Ventures Ltd. Phoenix Mall 
-                Chennai is part of a development which includes a premium residential space 
-                as part of Phase I. Phase II development includes a luxury mall called 
-                Palladium and residential space. Phoenix Mall features an 11-screen 
+                is a Palladium mall situated right next to it. s an 11-screen 
                 multiplex which is also Chennai's first IMAX screen. Palladium, the first 
                 luxury and premium luxury retail and entertainment destination of Chennai, 
                 was launched alongside Phoenix Marketcity as its second branch in the 
@@ -174,10 +156,7 @@ temple.html
                 It is located in Vadapalani, Chennai, Tamil Nadu, India. It was renovated in the 
                 1920s and a Rajagopuram was built during that time. The temple has grown in 
                 popularity, which is believed to be in part due to the patronage of cinema 
-                stars. The temple is built on the traditional lines of south Indian temples. 
-                The Rajagopuram at the entrance has several stuccos with the legends of the 
-                Skanda Purana depicted on them. The Moolavar (main deity) resembles the 
-                Palani temple idol and is in standing position. The belief is very strong 
+                stars.  in standing position. The belief is very strong 
                 here that people who cannot undertake the pilgrimage to the Palani temple 
                 can visit the Vadapalani temple with their offerings. Palaniandavar showers 
                 devotees with his blessings just the same as in Southern Palani. His grace 
