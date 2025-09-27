@@ -160,12 +160,12 @@ temple.html
 ```
 
 ## OUTPUT
-<img width="1387" height="879" alt="map" src="https://github.com/user-attachments/assets/1699a1df-5fd1-47be-9574-5ac879cf880e" />
-<img width="1919" height="803" alt="airport" src="https://github.com/user-attachments/assets/b40d384f-00ff-474a-abc2-337cc81f9341" />
-<img width="1911" height="831" alt="beach" src="https://github.com/user-attachments/assets/9309c19b-0deb-483f-8294-494677fb2725" />
-<img width="1869" height="737" alt="temple" src="https://github.com/user-attachments/assets/d0c0c229-6703-401a-9b99-56d0f85f2b50" />
-<img width="1848" height="724" alt="itc grand chola" src="https://github.com/user-attachments/assets/a18328d8-d8f3-4340-8c3b-7cfbcfe2222d" />
-<img width="1918" height="780" alt="city  market" src="https://github.com/user-attachments/assets/df59ae61-b691-4c2b-81b8-7ee972a0412d" />
+<img width="1082" height="715" alt="Screenshot 2025-09-27 132555" src="https://github.com/user-attachments/assets/71f5bd35-8f8e-4871-a524-5e4b6fc4b421" />
+<img width="1078" height="473" alt="Screenshot 2025-09-27 132540" src="https://github.com/user-attachments/assets/c76846e9-0bba-4f34-bcf2-e9e2a20af953" />
+<img width="1080" height="451" alt="Screenshot 2025-09-27 132608" src="https://github.com/user-attachments/assets/39962572-f624-4f8d-9349-e548844c55fb" />
+<img width="1081" height="473" alt="Screenshot 2025-09-27 132620" src="https://github.com/user-attachments/assets/a934dd27-9b0c-41c4-afb5-48ddac4108cf" />
+<img width="1087" height="468" alt="Screenshot 2025-09-27 132507" src="https://github.com/user-attachments/assets/b510c8ba-ab15-4580-9e2c-9cd83925a1c3" />
+
 
 
 
