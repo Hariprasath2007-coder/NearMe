@@ -87,9 +87,7 @@ beach.html
                 Chennai, Tamil Nadu, India, along the Bay of Bengal. The beach runs from 
                 near Fort St. George in the north to Foreshore Estate in the south, a 
                 distance of 6.0 km (3.7 mi), making it the second longest urban beach in 
-                the world, after Cox's Bazar Beach. The Marina is a primarily sandy beach, 
-                with an average width of 300 m (980  day during the 
-                weekends and on holidays. During summer months, about 15,000 to 20,000 
+                the world. During summer months, about 15,000 to 20,000 
                 people visit the beach daily.</font>
         </p>
         <img src="beach.png" width="700" height="400" title="Marina Beach">
@@ -109,9 +107,7 @@ hotel.html
                 It is located in Guindy, opposite SPIC building and along the same row of 
                 buildings as Ashok Leyland Towers. The building, designed by Singapore-based 
                 SRSS Architects,  with a 30,000-sq ft pillar-less 
-                ballroom. In terms of room inventory, with 600 rooms, it is the third largest 
-                hotel in India after Renaissance Mumbai Convention Centre Hotel – now 
-                rebranded as The Westin Mumbai Powai Lake (759 rooms) and Grand Hyatt 
+                ballroom. In Powai Lake (759 rooms) and Grand Hyatt 
                 (694 rooms), both in Mumbai.</font>
         </p>
         <img src="ITC grand chola.png" width="700" height="400" title="ITC Grand Chola">
@@ -132,11 +128,7 @@ marketcity.html
                 Limited located in Chennai, Tamil Nadu, India. It was opened in January 2013 
                 and is the 2nd largest mall in the city. It was the fourth largest mall in 
                 India in 2018. It has a built up area of 1,000,000 square feet. Also there 
-                is a Palladium mall situated right next to it. s an 11-screen 
-                multiplex which is also Chennai's first IMAX screen. Palladium, the first 
-                luxury and premium luxury retail and entertainment destination of Chennai, 
-                was launched alongside Phoenix Marketcity as its second branch in the 
-                country after the Mumbai one. It is also located in the same compound of 
+                is a . It is also located in the same compound of 
                 Phoenix Marketcity Chennai.</font>
         </p>
         <img src="market.png" width="700" height="400" title="Phoenix Marketcity">
@@ -156,11 +148,7 @@ temple.html
                 It is located in Vadapalani, Chennai, Tamil Nadu, India. It was renovated in the 
                 1920s and a Rajagopuram was built during that time. The temple has grown in 
                 popularity, which is believed to be in part due to the patronage of cinema 
-                stars.  in standing position. The belief is very strong 
-                here that people who cannot undertake the pilgrimage to the Palani temple 
-                can visit the Vadapalani temple with their offerings. Palaniandavar showers 
-                devotees with his blessings just the same as in Southern Palani. His grace 
-                resolves all issues for devotees, and they believe in the power of this 
+                stars.  in, and they believe in the power of this 
                 sacred temple.</font>
         </p>
         <img src="temple.png" width="700" height="400" title="Vadapalani Temple">
