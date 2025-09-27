@@ -39,22 +39,27 @@ map.html
         <h1 align="center">CHENNAI -- HARI PRASATH E (25007799)</h1>
         <br>
         
-        <img src="Screenshot.png" align="center" usemap="#image-map" title="My Fav Chennai">
+        
+        <img src="map.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="CHENNAI INTERNATIONAL AIRPORT" title="CHENNAI INTERNATIONAL AIRPORT" href="airport.html" coords="150,623,395,685" shape="rect">
-    <area target="" alt="MARINA  BEACH" title="MARINA  BEACH" href="beach.html" coords="1168,146,62" shape="circle">
-    <area target="" alt="PHOENIX MARKET" title="PHOENIX MARKET" href="marketcity.html" coords="527,674,56" shape="circle">
-    <area target="" alt="VADAPALANI MURUGAR KOVIL" title="VADAPALANI MURUGAR KOVIL" href="temple.html" coords="546,138,62" shape="circle">
-    <area target="" alt="ITC GRAND CHOLA" title="ITC GRAND CHOLA" href="hotel.html" coords="595,470,819,519" shape="rect">
+    <area target="" alt="Vadapalani murugan temple" title="Vadapalani murugan temple" href="temple.html" coords="748,40,934,129" shape="rect">
+    <area target="" alt="marina beach" title="marina beach" href="beach.html" coords="1547,104,89" shape="circle">
+    <area target="" alt="Chennai international airport" title="Chennai international airport" href="airport.html" coords="257,600,426,729" shape="rect">
+    <area target="" alt="Pheonix marketcity" title="Pheonix marketcity" href="marketcity.html" coords="719,637,914,710" shape="rect">
+    <area target="" alt="ITC grand chola" title="ITC grand chola" href="hotel.html" coords="980,498,83" shape="circle">
 </map>
+
         
 
 
     </body>
 </html>
 
+
+
 airport.html
+
 <html>
     <head>
         <title>AIRPORT</title>
@@ -71,11 +76,13 @@ airport.html
                 India (AAI) for South India comprising the states of Andhra Pradesh, 
                 </font>
         </p>
-        <img src="airport.png" width="700" height="400" title="Chennai Airport">
+        
     </body>
 </html>
 
 beach.html
+
+
 <html>
     <head>
         <title>BEACH</title>
@@ -90,12 +97,13 @@ beach.html
                 the world. During summer months, about 15,000 to 20,000 
                 people visit the beach daily.</font>
         </p>
-        <img src="beach.png" width="700" height="400" title="Marina Beach">
+        
     </body>
 </html>
 
 
 hotel.html
+
 <html>
     <head>
         <title>HOTEL</title>
@@ -110,9 +118,11 @@ hotel.html
                 ballroom. In Powai Lake (759 rooms) and Grand Hyatt 
                 (694 rooms), both in Mumbai.</font>
         </p>
-        <img src="ITC grand chola.png" width="700" height="400" title="ITC Grand Chola">
+        
     </body>
 </html>
+
+
 
 
 marketcity.html
@@ -131,12 +141,14 @@ marketcity.html
                 is a . It is also located in the same compound of 
                 Phoenix Marketcity Chennai.</font>
         </p>
-        <img src="market.png" width="700" height="400" title="Phoenix Marketcity">
+        
     </body>
 </html>
 
 
+
 temple.html
+
 <html>
     <head>
         <title>TEMPLE</title>
@@ -151,20 +163,22 @@ temple.html
                 stars.  in, and they believe in the power of this 
                 sacred temple.</font>
         </p>
-        <img src="temple.png" width="700" height="400" title="Vadapalani Temple">
+        
     </body>
 </html>
+
 
 
 
 ```
 
 ## OUTPUT
-<img width="1082" height="715" alt="Screenshot 2025-09-27 132555" src="https://github.com/user-attachments/assets/71f5bd35-8f8e-4871-a524-5e4b6fc4b421" />
-<img width="1078" height="473" alt="Screenshot 2025-09-27 132540" src="https://github.com/user-attachments/assets/c76846e9-0bba-4f34-bcf2-e9e2a20af953" />
-<img width="1080" height="451" alt="Screenshot 2025-09-27 132608" src="https://github.com/user-attachments/assets/39962572-f624-4f8d-9349-e548844c55fb" />
-<img width="1081" height="473" alt="Screenshot 2025-09-27 132620" src="https://github.com/user-attachments/assets/a934dd27-9b0c-41c4-afb5-48ddac4108cf" />
-<img width="1087" height="468" alt="Screenshot 2025-09-27 132507" src="https://github.com/user-attachments/assets/b510c8ba-ab15-4580-9e2c-9cd83925a1c3" />
+<img width="1906" height="1064" alt="map" src="https://github.com/user-attachments/assets/f0f24d2f-8633-4623-a2db-803bb9c44fc9" />
+<img width="1904" height="1041" alt="hotel" src="https://github.com/user-attachments/assets/a531129c-8997-4016-b32d-c8d7dc994327" />
+<img width="1906" height="1001" alt="temple" src="https://github.com/user-attachments/assets/49333101-a1e2-4021-a9a7-a6bc622cc217" />
+<img width="1906" height="1032" alt="marketcity" src="https://github.com/user-attachments/assets/d49fc6b6-7138-4e4b-8c77-d31029523611" />
+<img width="1906" height="1036" alt="airport" src="https://github.com/user-attachments/assets/f74aed9d-863c-46ef-8888-3ea5e910e4a2" />
+<img width="1902" height="1036" alt="beach" src="https://github.com/user-attachments/assets/f462a5c8-aa4a-429e-ad7e-237fa15beddf" />
 
 
 
